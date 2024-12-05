@@ -11,4 +11,6 @@ Pandas: 데이터 전처리 및 조작.
 NumPy: 수치 연산 및 배열 처리.
 scikit-learn: 데이터 스케일링과 학습/테스트 데이터 분할에 사용.
 Matplotlib: 실제 판매량과 예측 판매량을 시각화.
+
+
 👤 개발자 정보 Email: js3stara@gmail.com GitHub: Hun1999
